@@ -16,7 +16,7 @@
 
 <br>
 
-- A passionate Self-taught Full-Stack Developer
+- A passionate Full-Stack Developer
 - Personal website [link](https://starrdevdigital.vercel.app/)
 - I’m currently open for an Internship or a new job opportunities.
 <br><br>
