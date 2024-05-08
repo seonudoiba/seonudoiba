@@ -89,7 +89,11 @@
 <br>
 
 -----
+<h2>📊 GitHub Stats:</h2>
 
+![](https://github-readme-stats.vercel.app/api?username=seonudoiba&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=seonudoiba&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seonudoiba&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <br>
 
 
