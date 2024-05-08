@@ -97,14 +97,10 @@
 <br>
 </div>
 
-<br>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seonudoiba&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
+![](https://github-contributor-stats.vercel.app/api?username=daniel-dunsin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
------
-
-<br>
+---<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
