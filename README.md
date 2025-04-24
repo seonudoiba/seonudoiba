@@ -17,7 +17,7 @@
 <br>
 
 - A passionate Full-Stack Developer
-- Personal website [link](https://starrdevdigital.vercel.app/)
+- Personal website [link](https://starrstudio.pro/)
 - I’m currently open for an Internship or a new job opportunities.
 <br><br>
 
