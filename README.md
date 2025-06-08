@@ -2,19 +2,6 @@
 <h1 align="center"><b>Hi , I'm Igbehinadun Abiodun</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=You+are+Welcome+to+my+Profile..&hearts;++;Dedicated+Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
-	</a>
-</p>
-<br>
-
-- A passionate Full-Stack Developer
-- Personal website [link](https://starrstudio.pro/)
-- I’m currently open for an Internship or a new job opportunities.
-<br><br>
-
-<br>
-
-<p align="center">
 
 - **Languages**:
     
