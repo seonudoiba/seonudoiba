@@ -121,6 +121,6 @@
 ---
 
 <p align="center">
-  <i>B.Sc. Computer Science, Federal University of Agriculture, Abeokuta — CGPA 3.88/5.00</i><br>
+  <i>B.Sc. Computer Science, Federal University of Agriculture, Abeokuta </i><br>
   Open to backend, full-stack and applied-AI roles. <a href="mailto:biodunrahman1@gmail.com">Get in touch.</a>
 </p>
