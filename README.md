@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://abiodunstarr.online">
+  <a href="https://abiostarr.vercel.app">
     <img src="https://img.shields.io/badge/Website-abiodunstarr.online-0A66C2?style=flat&logo=firefox&logoColor=white" alt="Website">
   </a>
-  <a href="https://www.linkedin.com/in/igbehinadun-abiodun-581588183">
+  <a href="https://www.linkedin.com/in/abiostarr">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/Aigbehinadun">
