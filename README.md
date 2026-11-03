@@ -108,8 +108,16 @@
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seonudoiba&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonudoiba&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top languages">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=seonudoiba&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github&hide=issues,prs"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonudoiba&layout=compact&hide_border=true&langs_count=8&theme=github_dark&card_width=320&hide_title=false"
+    alt="Top languages"
+  />
 </p>
 
 <!--
