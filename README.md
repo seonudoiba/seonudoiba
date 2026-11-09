@@ -36,7 +36,7 @@ Temporal-style reliability on infrastructure you already run. Workflows are decl
 `Elixir` `OTP` `Phoenix` `PostgreSQL` `Docker` `Grafana`
 
 #### 🏫 [EduSYS](https://edusys.ng): multi-school SaaS
-Turned a one-copy-per-school ERP into a single multi-tenant platform. It went live two days after work started.
+Turned a one-copy-per-school ERP into a single multi-tenant platform.
 - A subdomain per school, and a tenant-aware database driver that adds the school's filter to every query (234 tables). Every raw SQL query was audited, and a CI lint stops new ones from skipping the filter
 - Self-serve registration and setup in about 2.5 seconds; Paystack, Flutterwave, Monnify, Interswitch and Remita confirmed by the gateway's server
 - Drag-and-drop website builder with 16 themes; CI that installs from an empty database and crawls every page, then deploys with automatic rollback
