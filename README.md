@@ -112,10 +112,6 @@ Spring Boot backend with 30+ tables, commission and subscription billing, and St
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ---
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-three-eta-77.vercel.app/api?username=seonudoiba&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-</p>
 <p align="center">
   <img height="165" src="https://github-readme-stats-three-eta-77.vercel.app/api/top-langs/?username=seonudoiba&layout=compact&hide_border=true&langs_count=8&theme=github_dark&card_width=320" alt="Top languages" />
 </p>
@@ -124,7 +120,7 @@ Spring Boot backend with 30+ tables, commission and subscription billing, and St
   <a href="https://commit-history.com/seonudoiba">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/seonudoiba?theme=dark" />
-      <img alt="Abiodun's commit history" src="https://commit-history.com/embed/obaseyi2" />
+      <img alt="Abiodun's commit history" src="https://commit-history.com/embed/seonudoiba" />
     </picture>
   </a>
 </div>
